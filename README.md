@@ -73,6 +73,11 @@ The project examines production output and rejection quantities by machine, empl
 ## Project Outcome
 
 This project demonstrates how SQL and business intelligence tools can be used to organise manufacturing data, calculate KPIs, analyse production performance, and communicate findings through dashboards.
+## Dashboard Screenshots
+
+- [Excel Dashboard Screenshots](https://github.com/ChristinSunny/axon-manufacturing-analytics/tree/main/Screenshot/Excel)
+- [Power BI Dashboard Screenshots](https://github.com/ChristinSunny/axon-manufacturing-analytics/tree/main/Screenshot/Power%20bi)
+- [Tableau Dashboard Screenshots](https://github.com/ChristinSunny/axon-manufacturing-analytics/tree/main/Screenshot/Tableau)
 
 ## Author
 
